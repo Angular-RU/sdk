@@ -35,6 +35,10 @@ export function deserializeByStorageMeta<T>(
 }
 
 function versionIsInvalid<T>(meta: StorageMeta<T>): boolean {
+    if (!meta) {
+        return true;
+    }
+
     const version: number = parseFloat(meta.version?.toString() ?? '');
 
     return (
