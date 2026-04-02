@@ -34,7 +34,7 @@ export function deserializeByStorageMeta<T>(
     throw new InvalidStructureDataException(`"${value}" not an object`);
 }
 
-function versionIsInvalid<T>(meta: StorageMeta<T>): boolean {
+function versionIsInvalid<T>(meta?: StorageMeta<T> | null): boolean {
     if (!meta) {
         return true;
     }
