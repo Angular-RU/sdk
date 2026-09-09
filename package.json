@@ -111,7 +111,7 @@
         "@ngxs/logger-plugin": "20.1.0",
         "@nx/angular": "21.2.1",
         "@nx/workspace": "21.2.1",
-        "@release-it-plugins/workspaces": "4.2.0",
+        "@release-it-plugins/workspaces": "4.2.1",
         "@release-it/conventional-changelog": "8.0.1",
         "@taiga-ui/commitlint-config": "0.113.8",
         "@taiga-ui/eslint-plugin-experience": "0.249.0",
