@@ -112,7 +112,7 @@
         "@nx/angular": "21.2.1",
         "@nx/workspace": "21.2.1",
         "@release-it-plugins/workspaces": "4.2.0",
-        "@release-it/conventional-changelog": "8.0.1",
+        "@release-it/conventional-changelog": "8.0.2",
         "@taiga-ui/commitlint-config": "0.113.8",
         "@taiga-ui/eslint-plugin-experience": "0.249.0",
         "@taiga-ui/prettier-config": "0.285.0",
