@@ -98,7 +98,7 @@
         "@angular/compiler": "20.0.5",
         "@angular/compiler-cli": "20.0.5",
         "@angular/core": "20.0.5",
-        "@angular/forms": "20.0.5",
+        "@angular/forms": "20.3.31",
         "@angular/language-service": "20.0.5",
         "@angular/material": "20.0.4",
         "@angular/platform-browser": "20.0.5",
