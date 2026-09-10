@@ -32,7 +32,7 @@ jobs:
       GH_TOKEN: ${{ secrets.ANGULAR_RU_BOT_PAT }}
       GITHUB_TOKEN: ${{ secrets.ANGULAR_RU_BOT_PAT }}
     steps:
-      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v4.4.0
         with:
           fetch-depth: 0
       - uses: taiga-family/ci/actions/setup/node@v1.121.0
