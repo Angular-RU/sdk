@@ -104,7 +104,7 @@
         "@angular/platform-browser": "20.0.5",
         "@angular/platform-browser-dynamic": "20.0.5",
         "@angular/router": "20.0.5",
-        "@ng-web-apis/universal": "4.12.0",
+        "@ng-web-apis/universal": "4.14.1",
         "@ngneat/falso": "^8.0.2",
         "@ngx-translate/core": "16.0.4",
         "@ngx-translate/http-loader": "16.0.1",
