@@ -109,7 +109,7 @@
         "@ngx-translate/core": "16.0.4",
         "@ngx-translate/http-loader": "16.0.1",
         "@ngxs/logger-plugin": "20.1.0",
-        "@nx/angular": "21.2.1",
+        "@nx/angular": "21.6.11",
         "@nx/workspace": "21.2.1",
         "@release-it-plugins/workspaces": "4.2.1",
         "@release-it/conventional-changelog": "8.0.1",
